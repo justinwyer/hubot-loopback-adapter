@@ -1,0 +1,1 @@
+Possibly useful for writing tests.

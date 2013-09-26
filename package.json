@@ -1,0 +1,24 @@
+{
+  "name": "hubot-loopback-adapter",
+  "version": "0.1.0",
+  "description": "A loopback adapter for hubot. Possibly useful for writing tests",
+  "keywords": [
+    "hubot"
+  ],
+  "author": {
+    "name": "Justin Wyer <justin@lifeasageek.com>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justinwyer/hubot-loopback-adapter.git"
+  },
+  "main": "loopback.coffee",
+  "dependencies": {
+    "hubot": ">= 2.6.3"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justinwyer/hubot-loopback-adapter/issues"
+  }
+}
