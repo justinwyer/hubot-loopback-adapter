@@ -1,6 +1,6 @@
 {
   "name": "hubot-loopback-adapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A loopback adapter for hubot. Possibly useful for writing tests",
   "keywords": [
     "hubot"
